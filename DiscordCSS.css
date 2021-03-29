@@ -1,0 +1,57 @@
+html *
+{
+  border-color: #ff000099 !important;
+  border-width: 1px !important;
+  font-family: VT323;
+}
+
+b {
+  color: red !important;
+}
+
+a {
+  color: red !important;
+  border: none !important;
+}
+
+img {
+  border-width: 2 !important;
+}
+
+.theme-dark {
+    --background-primary: #0f0f0f;
+    --background-secondary: black;
+    --background-tetriary: #110000;
+    --channeltextarea-background: #0f0f0f;
+    --text-normal: #fff;
+    --header-primary: #ffffff;
+    --header-secondary: #ffffff;
+}
+
+.container-3baos1 {
+    background: black;
+}
+
+.markupRtl-3M0hmN {
+    color: white !important;
+}
+
+.name-3YKhmS {
+    color: white !important;
+}
+
+.name-uJV0GL {
+    color: white !important;
+}
+
+.closedFolderIconWrapper-15K9MK {
+    background-color: #ff000088
+}
+
+.closedFolderIconWrapper-2sTcE6 {
+    background-color: #ff000088
+}
+
+.container-1giJp5 {
+    background-color: black;
+}
