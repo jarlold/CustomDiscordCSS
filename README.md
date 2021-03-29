@@ -11,7 +11,7 @@ scheme, but is infact, random data that just *happens* to look like a really nic
 
 This is Timothy, he is the esteemed typewriting chimpanzee responsible for this CSS file. <br>
 
-<img src="./Timothy.png"/>
+<img src="./Tim.jpeg"/>
 
 <br>
 
